@@ -133,7 +133,7 @@ python-louvain==0.13
 pytz==2019.3
 pyvis==0.1.7.0
 pyviz-comms==0.7.2
-PyYAML==5.3
+PyYAML==5.4
 pyzmq==18.1.1
 qtconsole==4.6.0
 requests==2.22.0
