@@ -25,7 +25,7 @@ coloredlogs==10.0
 colorlover==0.3.0
 ConfigSpace==0.4.12
 confuse==1.0.0
-cookiecutter==1.7.0
+cookiecutter==2.1.1
 cryptography==2.8
 cufflinks==0.17.0
 cycler==0.10.0
