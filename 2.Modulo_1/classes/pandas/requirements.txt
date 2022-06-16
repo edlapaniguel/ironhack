@@ -89,7 +89,7 @@ more-itertools==8.0.2
 nbconvert==5.6.1
 nbformat==4.4.0
 networkx==2.4
-notebook==6.0.2
+notebook==6.4.12
 numba==0.47.0
 numpy==1.18.1
 openpyxl==3.0.3
